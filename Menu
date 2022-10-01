@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Css/serie.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="contenedor">
+    <header class="encabezado">
+        <h1>Alimentos y Bebidas que debe de probar de la cafeteria de la UV</h1>
+    </header>
+
+    <div class="perfil">
+        <img class="foto" src="img/0EFF927B-814A-458B-B85F-C2BB8068030E.jpg">
+        <p class="nombre">Ari Fco Cruz V</p>
+        <p class="actualización">ultima actualización: 29/Sep/22</p>
+    </div>
+
+    <div class="separacion1"></div>
+
+        <p class="numeracion">1.</p>
+        <p class="comida">Hot dogs/ Hot dogs especiales</p>
+        <p class="contenido1">Normal: $17 x pza.</p>
+        <p class="contenido1">Especial: $23 x pza.</p>
+        
+
+        <div class="separacion2"></div>
+
+        <p class="parrafo">Los Hot dogs es una buena opción para pedir en la cafetería siendo muy ricos y estando acompañados de tomate picado, cebolla picada y chile picado para los normales y para los especiales se le agrega tocino y queso fresco. Los hot dogs son una comida que llena y por su precio es una buena opción para el desayuno o la comida en la tarde.</p>
+
+        <div class="separacion2"></div>
+
+        <img src="img/hotdog.jpg" class="imgAlimento" width="450px">
+
+        <div class="separacion3"></div>
+
+        <p class="numeracion">2.</p>
+        <p class="comida">Milanesa de pollo/res</p>
+        <p class="contenido1">Precio: $32.</p>
+
+        <div class="separacion2"></div>
+
+        <p class="parrafo">Las milanesas son un buen platillo si cuentas con un poco más de efectivo, ya que la milanesa viene acompañada de arroz, un vaso de jamaica aunque es un vaso pequeño sirve para poder pasar los vocados y una pequeña rodaja de limon para darle más sabor.</p>
+        
+        <div class="separacion2"></div>
+
+         <img src="img/milanesa.jpg" alt="Milansesa con arroz" class="imgAlimento" width="650px">
+
+         <div class="separacion3"></div>
+
+         <p class="numeracion">3.</p>
+        <p class="comida">Agua de horchata</p>
+        <p class="contenido1">Precio: $15.</p>
+
+        <div class="separacion2"></div>
+
+        <p class="parrafo">Por la parte de las Bebidas considero que el agua de horchata es una buena opción si a agua de sabor se refiere no solo porque es refrescante y deliosa, sino que es algo barata a comparación de los refrescos y porque soy TeamHorchata arriba la horchata abajo la jamaica</p>
+
+        <div class="separacion2"></div>
+
+        <img src="img/horchata.jpg" class="imgAlimento">
+
+        <div class="separacion3"></div>
+
+        <p class="numeracion">4.</p>
+        <p class="comida">Fuze tea</p>
+        <p class="contenido1">Precio: $17.</p>
+
+        <div class="separacion2"></div>
+
+        <p class="parrafo">Otra buena opción para el apartado de las bebidas es el Fuze tea siendo una bebida rica y refrescante con el beneficio de no poseer 
+            mucha azucar, lo cual es muy bueno para quienes buscan tomar algo con sabor pero sin empalagarse por 2 pesos más a los refrescos comunes.</p>
+
+            <div class="separacion2"></div>
+
+        <img src="img/fuze.jpg" class="imgAlimento">
+    
+        <div class="separacion3"></div>
+            
+        <p class="numeracion">5.</p>
+        <p class="comida">Tortas</p>
+        <p class="contenido1">Precio: $12 - $25</p>
+
+        <div class="separacion2"></div>
+
+        <p class="parrafo">
+            Una buena opción con una gran variedad son las tortas, ya que hay de cochinita, de milanesa, de salchicha entre otras variedades que van variando de precio dependiendo el ingrediente, teniendo repollo y un chile acompañando la torta, la ventaja de las tortas es la rapidez con la que tienen lista.
+        </p>
+
+            <div class="separacion2"></div>
+
+        <img src="img/tortas-de-cochinita.jpg " class="imgAlimento">
+    </div>  
+    </body>
+</html>
